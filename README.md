@@ -3,11 +3,11 @@
 This is a public task list for people who wish to help build the Justice Party of Pennsylvania.  If you'd like to get started right away, head over to the [Issues] section for a list of our open tasks.  Otherwise, keep reading for an overview of how this repo is organized and how people can contribute.
 
 # Contents
-* [Organization](#Organization)
-    - [File Repository](#File-Repository)
-        + [Goals](#Goals)
-        + [High-level Tasks](#High-level-Tasks)
-    - [Issues List](#Issues-List)
+* [Organization](#organization)
+    - [File Repository](#file-repository)
+        + [Goals](#goals)
+        + [High-level Tasks](#high-level-tasks)
+    - [Issues List](#issues-list)
 
 # Organization
 This repository is organized into two sections:  the [File Repository] and the [Issues] list.
@@ -25,7 +25,7 @@ Within each file, underneath the list of goals, is a list of high-level tasks th
 
 These high-level tasks are much too big to be completed by a single person in a reasonable amount of time, and so they are broken down into the much smaller and more manageable tasks found on the [Issues] page.
 
-## Issue List
+## Issues List
 The [Issues] list is the actual *To-do List*.  It is a list of small, atomic tasks that are based on our goals and high-level tasks, and that are designed to be completable by a single person in a manageable amount of time.
 
 [File Repository]:(https://github.com/JusticePartyPennsylvania/Task_List)
